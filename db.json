@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "name": "Vivian Kennedy",
+      "username": "evab",
+      "email": "eva@example.com",
+      "phone": "222-333-4444",
+      "website": "evabrown.com"
+    },
+    {
+      "id": 5,
+      "name": "David Lee",
+      "username": "davidl",
+      "email": "david@example.com",
+      "phone": "777-888-9999",
+      "website": "davidlee.com"
+    },
+    {
+      "id": 6,
+      "name": "Sarah Wilson",
+      "username": "sarahw",
+      "email": "sarah@example.com",
+      "phone": "666-555-4444",
+      "website": "sarahwilson.com"
+    },
+    {
+      "id": 7,
+      "name": "Michael Johnson",
+      "username": "michaelj",
+      "email": "michael@example.com",
+      "phone": "333-222-1111",
+      "website": "michaeljohnson.com"
+    },
+    {
+      "id": 8,
+      "name": "Linda Davis",
+      "username": "lindad",
+      "email": "linda@example.com",
+      "phone": "111-999-8888",
+      "website": "lindadavis.com"
+    },
+    {
+      "id": 9,
+      "name": "Chris Brown",
+      "username": "chrisb",
+      "email": "chris@example.com",
+      "phone": "888-777-6666",
+      "website": "chrisbrown.com"
+    },
+    {
+      "id": 10,
+      "name": "Emma White",
+      "username": "emmaw",
+      "email": "emma@example.com",
+      "phone": "444-555-6666",
+      "website": "emmawhite.com"
+    },
+    {
+      "name": "Kennedy",
+      "email": "kennedy.ehigiator@decagon.dev",
+      "phone": "09162854194",
+      "id": 11
+    },
+    {
+      "name": "Sandra",
+      "email": "sandystiches@gmail.com",
+      "phone": "08144359414",
+      "id": 12
+    }
+  ]
+}
